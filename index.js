@@ -1,7 +1,7 @@
 const drivers = ['Sally', 'Bob', 'Freddy', 'Claudia'];
 
 function returnFirstTwoDrivers(drivers) {
-  const firstTwo = function(){ 
+  const firstTwo = function(drivers){
     return drivers[0, 1]
   }
 }
