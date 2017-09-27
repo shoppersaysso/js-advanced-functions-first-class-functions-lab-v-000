@@ -7,3 +7,11 @@ const returnFirstTwoDrivers = function (drivers) {
 const returnLastTwoDrivers = function (drivers) {
   return drivers.slice(-2);
 };
+
+const selectingDrivers = function (drivers) {
+  
+};
+
+selectingDrivers — This is an array containing two elements: 
+the two functions that we previously 
+defined (returnFirstTwoDrivers() and returnLastTwoDrivers())
